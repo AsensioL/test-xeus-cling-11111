@@ -1,5 +1,5 @@
 {
-  "image": "https://hub.docker.com/r/datainpoint/xeus-cling-notebook",
+  "image": "datainpoint/xeus-cling-notebook:latest",
   "features": {
   }
 }
